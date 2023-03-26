@@ -23,7 +23,7 @@
 
   
 ## 必要な環境
-アプリケーションを利用するために以下の環境が必要です。(動作確認はWindowsのみ)
+アプリケーションを利用するためには、以下の環境が必要です。(動作確認はWindowsのみ)
 * [Python](https://www.python.org/) [3.11]
 * [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/) [4.12.0] `MIT License`
 * [CacheControl](https://github.com/ionrock/cachecontrol) [0.12.11] `Apache Software License`
@@ -63,7 +63,7 @@
 <image width='700' alt='ファイルダイアログ' src=https://user-images.githubusercontent.com/117723810/227696422-a27715f0-840e-489b-8530-0d66ed3bf150.png>
 
 デフォルトのディレクトリは「ダウンロード」、ファイル名は「(起動時のタイムスタンプ)_scrape.json」としています。  
-変更される場合は、ディレクトリやファイル名を変更後、ファイルダイアログの「保存」ボタンをクリックしてください。  
+変更される場合は、ディレクトリやファイル名を変更後、「保存」ボタンをクリックしてください。  
 ファイル名を変更する場合、適切ではない記号等が含まれていると、エラーメッセージが表示されデフォルトに戻ります。
 
 なお、ファイル名の末尾は、拡張子「.json」を付けなくても自動で付与されます。  

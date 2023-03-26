@@ -1,0 +1,24 @@
+{
+    "cSpell.words": [
+        "borderwidth",
+        "cachecontrol",
+        "columnspan",
+        "initialdir",
+        "initialfile",
+        "ipady",
+        "jsonschema",
+        "levelname",
+        "lxml",
+        "nesw",
+        "padx",
+        "pady",
+        "textvariable",
+        "useragent",
+        "webcache",
+        "xbar",
+        "xscrollcommand"
+    ],
+    "editor.rulers": [
+        80
+    ]
+}

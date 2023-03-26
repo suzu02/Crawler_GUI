@@ -1,0 +1,5 @@
+beautifulsoup4==4.12.0
+CacheControl[filecache]==0.12.11
+lxml==4.9.2
+pandas==1.5.3
+requests==2.28.2

@@ -1,4 +1,4 @@
-# Crawler_GUI
+# Sample_Crawler_GUI
 趣味で作成したWebスクレイピング用のGUIアプリケーションです。
 
 ![python](https://img.shields.io/badge/python-v3.11-blue)
